@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xixi Jiang / Site Title"
+title                    : "Xixi Jiang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
