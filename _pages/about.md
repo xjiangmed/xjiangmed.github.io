@@ -11,12 +11,12 @@ I am a 2nd-year PhD student at the Department of Electronic and Computer Enginee
 
 ## Publications
 >**Multi-phase and multi-level selective feature fusion for automated pancreas segmentation from CT images**. <br>
-><u>Xixi Jiang</u>, Qingqing Luo, Zhiwei Wang, Tao Mei, Yu Wen, Xin Li, Kwang-Ting Cheng, Xin Yang.<br>*IEEE Transactions on Medical Imaging*, 2020.[paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_45)
+><u>Xixi Jiang</u>, Qingqing Luo, Zhiwei Wang, Tao Mei, Yu Wen, Xin Li, Kwang-Ting Cheng, Xin Yang.<br>*IEEE Transactions on Medical Imaging*, 2020.<br>[paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_45)
 
 ---
 
 >**Multi-task siamese network for retinal artery/vein separation via deep convolution along vessel**. <br>
->Zhiwei Wang, <u>Xixi Jiang</u>, Jingen Liu, Kwang-Ting Cheng, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Intervention*,2020.[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9032204) 
+>Zhiwei Wang, <u>Xixi Jiang</u>, Jingen Liu, Kwang-Ting Cheng, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Intervention*,2020.<br>[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9032204) 
 
 ## Teaching Assistant
 
