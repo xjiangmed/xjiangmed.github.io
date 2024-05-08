@@ -12,7 +12,7 @@ I am a 2nd-year PhD student at the Department of Electronic and Computer Enginee
 ## Publications
 ======
 >**Multi-phase and multi-level selective feature fusion for automated pancreas segmentation from CT images**. <br>
-><u>Xixi Jiang</u>, Qingqing Luo, Zhiwei Wang, Tao Mei, Yu Wen, Xin Li, Kwang-Ting Cheng, Xin Yang.<br>[(https://link.springer.com/chapter/10.1007/978-3-030-59719-1_45)] 
+><u>Xixi Jiang</u>, Qingqing Luo, Zhiwei Wang, Tao Mei, Yu Wen, Xin Li, Kwang-Ting Cheng, Xin Yang.<br>[paper(https://link.springer.com/chapter/10.1007/978-3-030-59719-1_45)] 
 
 Getting started
 ======
