@@ -7,9 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year PhD student at the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I received my bachelor's degree in 2019 and my master's degree in 2022 from Huazhong University of Science and Technology, under the supervision of Prof. [Xin Yang](https://sites.google.com/view/xinyang). Currently, my research interests include medical image analysis and computer vision. 
+I am a third-year PhD student at the Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Kwang-Ting (Tim) Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I received my bachelor's degree in 2019 and my master's degree in 2022 from Huazhong University of Science and Technology, under the supervision of Prof. [Xin Yang](https://sites.google.com/view/xinyang). Currently, my research interests include medical image analysis and computer vision. 
 
 ## Publications
+
+>**SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model**. <br>
+><u>Xixi Jiang</u>, Chen Yang, Liang Zhang, Kwang-Ting Cheng, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
+
+>**ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization**. <br>
+>Tianyu Zhao, Zihang Huang, Liang Zhang, <u>Xixi Jiang</u>, Xiaohuan Ding, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
+
+>**Cross-Set Data Augmentation for Semi-Supervised Medical Image Segmentation**. <br>
+>Qianhao Wu, <u>Xixi Jiang</u>, Dong Zhang, Yifei Feng, Jinhui Tang.<br>*Image and Vision Computing*, 2025.
+
 >**Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation**. <br>
 ><u>Xixi Jiang</u>, Dong Zhang, Xiang Li, Kangyi Liu, Kwang-Ting Cheng, Xin Yang.<br>*Medical Image Analysis*, 2024.
 
