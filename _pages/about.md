@@ -14,6 +14,9 @@ I am a third-year PhD student at the Department of Electronic and Computer Engin
 >**SR-SAM: Subspace Regularization for Domain Generalization of Segment Anything Model**. <br>
 ><u>Xixi Jiang</u>, Chen Yang, Liang Zhang, Kwang-Ting Cheng, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
 
+>**TemSAM: Temporal-aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences**. <br>
+>Liang zhang, <u>Xixi Jiang</u>, Xiaohuan Ding, Zihang Huang, Tianyu Zhao, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
+
 >**ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization**. <br>
 >Tianyu Zhao, Zihang Huang, Liang Zhang, <u>Xixi Jiang</u>, Xiaohuan Ding, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
 
