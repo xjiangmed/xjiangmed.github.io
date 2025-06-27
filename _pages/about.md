@@ -18,7 +18,7 @@ I am a third-year PhD student at the Department of Electronic and Computer Engin
 >Liang zhang, <u>Xixi Jiang</u>, Xiaohuan Ding, Zihang Huang, Tianyu Zhao, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
 
 >**ISAC: Redefining the Vascular Segmentation Paradigm through Mask Completion for Cross-Domain Generalization**. <br>
->Tianyu Zhao, Zihang Huang, Liang Zhang, <u>Xixi Jiang</u>, Xiaohuan Ding, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
+>Tianyu Zhao, Zihang Huang, <u>Xixi Jiang</u>, Liang Zhang, Xiaohuan Ding, Xin Yang.<br>*International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI)*, 2025.
 
 >**Cross-Set Data Augmentation for Semi-Supervised Medical Image Segmentation**. <br>
 >Qianhao Wu, <u>Xixi Jiang</u>, Dong Zhang, Yifei Feng, Jinhui Tang.<br>*Image and Vision Computing*, 2025.
